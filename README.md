@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -75,7 +75,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
@@ -85,7 +85,7 @@
 
 ###
 
-<h3 align="left">🐍 Snake :</h3>
+<h2 align="left">🐍 Snake :</h2>
 
 ###
 
@@ -93,7 +93,7 @@
 
 ###
 
-<h3 align="left">🎧✨What I'm Listening :</h3>
+<h2 align="left">🎧✨What I'm Listening :</h2>
 
 ###
 
