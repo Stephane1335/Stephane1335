@@ -85,14 +85,6 @@
 
 ###
 
-<h2 align="left">🐍 Snake :</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/Stephane1335/Stephane1335/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">🎧✨What I'm Listening :</h2>
 
 ###
