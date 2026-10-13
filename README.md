@@ -84,9 +84,9 @@
 ### 🎧✨ Listening Activity
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Nero%20Steph">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=212i7bykadri32fk3lc66eiqy&count=1" alt="Spotify Recently Played" />
-  </a>
+<a href="https://open.spotify.com/user/212i7bykadri32fk3lc66eiqy">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=212i7bykadri32fk3lc66eiqy&amp;width=600&amp;radius=28" alt="Spotify recently played" width="600" />
+</a>
 </div>
 
 <br />
